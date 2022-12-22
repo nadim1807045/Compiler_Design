@@ -1,0 +1,47 @@
+value of exp:1
+value of exp:2
+value of exp:3
+value of exp:7
+Multiple line comment 
+its printf 7
+Single line Comment : @switcjh jvnc cn
+inside case NO: 4 =  1
+Value in if:2
+Value of the correct condition is : 2
+Value in if:10
+Value of the correct condition is : 10
+Value of the correct condition is : 1000
+Value of the correct condition is : 1
+Value in if:2
+Value in if:2
+Value of the correct condition is : 2
+a is already declared
+value of exp:0
+ 1
+ 2
+ 3
+ 4
+ 5
+WHILE LOOP IS EXECUTED
+5 6 7 8 9 10 
+While execution is true
+WHILE LOOP IS EXECUTED
+10 9 8 7 6 5 
+While execution is true
+REPEAT WHILE LOOP IS EXECUTED
+1 2 3 4 5 
+ repeat While execution is true
+fuction declared successfully
+function called successfully
+function value is 2
+sorted values are 5  6  12  13  
+value of exp:4
+value of exp:2
+value of exp:1
+value of exp:0
+value of exp:16
+3 is prime
+value of exp:24
+Value of LOG(100.00) = 2.00
+value of exp:2.00
+compiled successfully!!
